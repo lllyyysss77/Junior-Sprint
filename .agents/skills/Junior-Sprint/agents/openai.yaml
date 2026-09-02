@@ -1,0 +1,6 @@
+interface:
+  display_name: "Junior Sprint"
+  short_description: "Repo-specific patterns and workflows for Junior-Sprint"
+  default_prompt: "Use the Junior-Sprint repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
